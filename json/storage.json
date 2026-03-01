@@ -1,0 +1,22 @@
+[
+    {
+        "image": "knife.jpg",
+        "title": "Knife Stand",
+        "price": 1999
+    },
+    {
+        "image": "masala.jpg",
+        "title": "Jars For Masala",
+        "price": 499
+    },
+    {
+        "image": "shelf.jpg",
+        "title": "Shelf For Storage",
+        "price": 999
+    },
+    {
+        "image": "vegs.jpg",
+        "title": "Vegitable Stand",
+        "price": 999
+    }
+]

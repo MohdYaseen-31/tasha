@@ -1,0 +1,42 @@
+[
+    {
+        "image": "royal1.jpg",
+        "title": "Royal Set",
+        "price": 4000
+    },
+    {
+        "image": "royal2.jpg",
+        "title": "Luxe Set",
+        "price": 5500
+    },
+    {
+        "image": "royal3.png",
+        "title": "Premium Set",
+        "price": 4000
+    },
+    {
+        "image": "set1.png",
+        "title": "Dinner Set",
+        "price": 3000
+    },
+    {
+        "image": "set2.png",
+        "title": "Best Choice Set",
+        "price": 2499
+    },
+    {
+        "image": "steel1.jpg",
+        "title": "Steel Set",
+        "price": 2000
+    },
+    {
+        "image": "steel2.jpg",
+        "title": "Patila Set",
+        "price": 999
+    },
+    {
+        "image": "steel3.jpg",
+        "title": "Full Steel Set",
+        "price": 4000
+    }
+]

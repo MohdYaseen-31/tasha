@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasha</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="assets/pics/Tasha.png">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <!-- N A V B A R  -->
+        <section class="badshah">
+            <div id="navbar">
+
+            </div>
+        </section>
+        <!-- N A V B A R  -->
+
+        <!-- C A T E G O R I E S  -->
+        <section class="wazir">
+            <div class="text-center mb-5">
+                <h2 class="mt-4 fw-bold">Categories We Have</h2>
+                <p class="text-muted">All Your Kitchen In One Website so, Shop Now!</p>
+            </div>
+            <nav class="container my-4 sticky-top bg-white py-3">
+                <div class="d-flex flex-wrap justify-content-center gap-2">
+
+                    <button class="btn btn-outline-dark px-4 shadow-sm"
+                        onclick="scrollToCategory('cooking')">Cookware</button>
+
+                    <button class="btn btn-outline-dark px-4 shadow-sm"
+                        onclick="scrollToCategory('fridge')">Refrigerator</button>
+
+                    <button class="btn btn-outline-dark px-4 shadow-sm"
+                        onclick="scrollToCategory('applience')">Appliances</button>
+
+                    <button class="btn btn-outline-dark px-4 shadow-sm"
+                        onclick="scrollToCategory('store')">Storage</button>
+
+                </div>
+            </nav>
+
+            <div class="container">
+                <section id="cookware" class="py-5" style="min-height: 80vh;">
+                    <h2 class="display-5 border-bottom pb-2">Cookware</h2>
+                    <div class="row container gap-3 mx-auto justify-content-center feature mt-5" id="cooking"> </div>
+                </section>
+
+                <section id="refrigerator" class="py-5" style="min-height: 80vh;">
+                    <h2 class="display-5 border-bottom pb-2">Refrigerator</h2>
+                    <div class="row container gap-3 mx-auto justify-content-center feature mt-5" id="fridge"> </div>
+                </section>
+
+                <section id="appliences" class="py-5" style="min-height: 80vh;">
+                    <h2 class="display-5 border-bottom pb-2">Appliances</h2>
+                    <div class="row container gap-3 mx-auto justify-content-center feature mt-5" id="applience">
+                    </div>
+                </section>
+
+                <section id="storage" class="py-5" style="min-height: 80vh;">
+                    <h2 class="display-5 border-bottom pb-2">Storage</h2>
+                    <div class="row container gap-3 mx-auto justify-content-center feature mt-5" id="store"> </div>
+                </section>
+            </div>
+        </section>
+        <!-- C A T E G O R I E S  -->
+
+
+        <!-- F O O T E R  -->
+        <section class="public">
+            <div id="footer"> </div>
+        </section>
+        <!-- F O O T E R  -->
+    </main>
+</body>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/navbar.js"></script>
+<script src="js/script.js"></script>
+<script src="js/appliences.js"></script>
+<script src="js/cooks.js"></script>
+<script src="js/refrigerator.js"></script>
+<script src="js/storage.js"></script>
+
+</html>

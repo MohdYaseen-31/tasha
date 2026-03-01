@@ -1,0 +1,22 @@
+[
+    {
+        "image": "normalfridge.jpg",
+        "title": "Refrigerator",
+        "price": 7999
+    },
+    {
+        "image": "2door.png",
+        "title": "Modern Double Door",
+        "price": 19999
+    },
+    {
+        "image": "2door1.jpg",
+        "title": "Double Door Fridge",
+        "price": 9999
+    },
+    {
+        "image": "filter.jpg",
+        "title": "Water Dispenser",
+        "price": 8999
+    }
+]

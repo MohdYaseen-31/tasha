@@ -1,0 +1,42 @@
+[
+    {
+        "image": "big-juicer.jpeg",
+        "title": "Multi-purpose Juicer",
+        "price": 4999
+    },
+    {
+        "image": "mini-juicer.jpeg",
+        "title": "Portable Juicer",
+        "price": 2999
+    },
+    {
+        "image": "juicer.jpg",
+        "title": "Single Juicer",
+        "price": 1999
+    },
+    {
+        "image": "oven1.jpg",
+        "title": "Oven For Home",
+        "price": 3000
+    },
+    {
+        "image": "oven2.jpg",
+        "title": "Microwave Oven",
+        "price": 4999
+    },
+    {
+        "image": "toast.jpg",
+        "title": "Electronic Toaster",
+        "price": 3999
+    },
+    {
+        "image": "ctove.jpg",
+        "title": "Electronic Stove",
+        "price": 999
+    },
+    {
+        "image": "cofee.jpg",
+        "title": "Electronic Coffee Maker",
+        "price": 4000
+    }
+]
