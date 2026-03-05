@@ -24,6 +24,9 @@ Nav.innerHTML = `
                 <li class="nav-item">
                     <a class="nav-link" href="about.html">About Us</a>
                 </li>
+                   <li class="nav-item">
+                    <a class="nav-link" href="about.html">Feedback</a>
+                </li>
             </ul>
         </div>
     </div>
@@ -71,6 +74,7 @@ Footer.innerHTML=`
 `
 
 ;
+
 
 
 
