@@ -1,33 +1,34 @@
 var Nav = document.getElementById("navbar");
-Nav.innerHTML=`
- <nav class="navbar navbar-expand-lg navbar-light ">
-                <div class="container-fluid">
-                    <img class="img1" src="../assets/pics/appli.png" alt="">
-                    <h2 class="main-logo">TASHA</h2>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav">
-                            <li class="nav-item">
-                          <a class="nav-link" href="../index.html">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/tasha/category.html">Categories</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/tasha/contact.html">Contact Us</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/tasha/about.html">About Us</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-`;
 
+Nav.innerHTML = `
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+        <img class="img1" src="img/appli.png" alt="">
+        <h2 class="main-logo">TASHA</h2>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.html">Categories</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+`;
 var Footer = document.getElementById("footer");
 Footer.innerHTML=`
 <footer class="tasha-footer">
@@ -70,6 +71,7 @@ Footer.innerHTML=`
 `
 
 ;
+
 
 
 
