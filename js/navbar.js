@@ -11,7 +11,7 @@ Nav.innerHTML=`
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                          <a class="nav-link" href="/tasha/index.html">Home</a>
+                          <a class="nav-link" href="../index.html">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/tasha/category.html">Categories</a>
@@ -70,6 +70,7 @@ Footer.innerHTML=`
 `
 
 ;
+
 
 
 
