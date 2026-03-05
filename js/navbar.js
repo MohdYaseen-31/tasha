@@ -11,16 +11,16 @@ Nav.innerHTML=`
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="../index.html">Home</a>
+                                <a class="nav-link" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="../category.html">Categories</a>
+                                <a class="nav-link" href="category.html">Categories</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="../contact.html">Contact Us</a>
+                                <a class="nav-link" href="contact.html">Contact Us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="../about.html">About Us</a>
+                                <a class="nav-link" href="about.html">About Us</a>
                             </li>
                         </ul>
                     </div>
@@ -68,4 +68,5 @@ Footer.innerHTML=`
                 </div>
             </footer>
 `
+
 ;
